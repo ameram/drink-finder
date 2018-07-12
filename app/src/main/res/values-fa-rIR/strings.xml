@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آبجو یاب</string>
+    <string name="find_beer">آبجو بیاب!</string>
+    <string name="brands">آبجو انتخاب نشده است</string>
+</resources>
